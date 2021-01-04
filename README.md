@@ -3,4 +3,4 @@
 
 
 
-![](https://github.com/srgpanov/AvitoTech_TestTask/blob/master/S10104-230301.png)
+![](https://github.com/srgpanov/AvitoTech_TestTask/blob/master/screenshots/S10104-230301.png)
